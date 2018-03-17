@@ -69,7 +69,7 @@ you specified the port when starting Cruise Control.
 metrics (e.g when topic bytes-in is higher than broker bytes-in), so first few snapshot windows may not have enough valid partitions. 
 
 ### REST API ###
-Cruise Control provides a [REST API](https://github.com/linkedin/cruise-control/wiki/REST-APIs) for users 
+Cruise Control provides a [REST API](https://github.com/chandradeepak/cruise-control/wiki/REST-APIs) for users 
 to interact with. See the wiki page for more details.
 
 ### How Does It Work ###
